@@ -7,11 +7,17 @@ I am a data scientist specializing in business and financial data analysis, driv
 Here are my key skills and competencies
 
 Machine Learning
+
 Deep Learning
+
 Data Visualization
+
 Qualitative data analysis
+
 Financial modeling
+
 Time series forecasting
+
 Markdown
 
 
